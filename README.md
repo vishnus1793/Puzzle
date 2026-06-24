@@ -19,7 +19,7 @@ A customizable number slide puzzle game with multiple grid sizes (3×3, 4×4, 5�
 
 ```bash
 git clone https://github.com/vishnus1793/Puzzle.git
-cd slide-puzzle
+cd Puzzle
 open index.html
 ```
 
