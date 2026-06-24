@@ -4,7 +4,7 @@ A customizable number slide puzzle game with multiple grid sizes (3×3, 4×4, 5�
 
 ## 🎮 Play
 
-[Live Demo](https://your-username.github.io/slide-puzzle/)
+[Live Demo](https://vishnus1793.github.io/Puzzle/)
 
 ## ✨ Features
 
@@ -18,7 +18,7 @@ A customizable number slide puzzle game with multiple grid sizes (3×3, 4×4, 5�
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/vishnus1793/puzzle.git
+git clone https://github.com/vishnus1793/Puzzle.git
 cd slide-puzzle
 open index.html
 ```
